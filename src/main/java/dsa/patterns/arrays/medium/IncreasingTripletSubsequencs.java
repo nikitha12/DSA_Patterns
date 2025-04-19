@@ -1,4 +1,4 @@
-package com.learning.arrays.medium;
+package dsa.patterns.arrays.medium;
 
 public class IncreasingTripletSubsequencs {
     public static void main(String[] args) {

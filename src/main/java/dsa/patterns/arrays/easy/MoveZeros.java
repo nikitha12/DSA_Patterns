@@ -1,4 +1,4 @@
-package com.learning.arrays.easy;
+package dsa.patterns.arrays.easy;
 
 import java.util.Arrays;
 

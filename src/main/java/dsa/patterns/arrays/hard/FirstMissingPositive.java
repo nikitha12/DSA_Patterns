@@ -1,4 +1,4 @@
-package com.learning.arrays.hard;
+package dsa.patterns.arrays.hard;
 
 import java.util.HashSet;
 import java.util.Set;
